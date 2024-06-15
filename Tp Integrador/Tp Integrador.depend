@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1718406900 source:c:\users\pc 04\desktop\tp integrador\main.cpp
+	<iostream>
+	<cTime>
+	"funciones.h"
+
+1718407791 c:\users\pc 04\desktop\tp integrador\funciones.h
+
+1718406900 source:c:\users\pc 04\desktop\tp integrador\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<ctime>
+
