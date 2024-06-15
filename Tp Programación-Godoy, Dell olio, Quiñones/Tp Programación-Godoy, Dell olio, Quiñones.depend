@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1718331104 source:c:\users\bruno\desktop\c++\tp programación-godoy, dell olio, quiñones\funciones.cpp
-	<iostream>
-	<ctime>
-
-1718331399 source:c:\users\bruno\desktop\c++\tp programación-godoy, dell olio, quiñones\main.cpp
-	<iostream>
-	<CTime>
-
